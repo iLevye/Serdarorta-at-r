@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services;
+namespace App\Service;
 
 use Http\Adapter\Guzzle6\Client;
 use Http\Factory\Guzzle\RequestFactory;
